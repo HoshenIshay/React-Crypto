@@ -1,6 +1,6 @@
 # React - Crypto Price App 🪙
 
-This React app displays the real-time prices of various cryptocurrencies and provides a filter function to search for a specific currency. It uses a public API provided by Coins.
+This React app displays the real-time prices of various cryptocurrencies and provides a filter function to search for a specific currency. It uses a public API provided by Coins .
 
 ## API
 The public API provided by Coins can be accessed at: https://lnkd.in/dWkewhCY
